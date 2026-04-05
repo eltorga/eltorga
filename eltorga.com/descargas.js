@@ -21,7 +21,7 @@ setInterval(function() {
     capaAdvertencia.className = 'dl-info caja-advertencia';
     capaAdvertencia.style.display = 'none';
     capaAdvertencia.style.color = 'var(--danger)';
-    capaAdvertencia.innerHTML = '<div class="dl-img dl-icon-warning"></div><div style="font-size: 13.5px; line-height: 1.4; color: var(--text);">Accederás a webs con derechos de autor. eltorga.com no se responsabiliza del uso; solo compartimos información externa y nos eximimos de cargos.</div>';
+    capaAdvertencia.innerHTML = '<div class="dl-img dl-icon-warning"></div><div style="font-size: 13.5px; line-height: 1.4; color: var(--text);">Accederás a webs con derechos de autor. eltorga.com no se responsabiliza del uso; solo compartimos información y nos eximimos de cargos.</div>';
     
     caja.insertBefore(capaOriginal, boton);
     caja.insertBefore(capaAdvertencia, boton);
