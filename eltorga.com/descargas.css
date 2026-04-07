@@ -39,8 +39,16 @@
   background-image: url('https://blogger.googleusercontent.com/img/a/AVvXsEjCmKHaTJx6qQOgAyuqr7q4aZb5gS0N83GF19gLXNn69PSKmzndOm9K8ooy5zQu-9U6TMgpqSCxcD3Jb3e8fROrumHkEsUJ2jx0UErAzetVfOXCY_bUsYDy226h-3zz0fiVOFZeR5z6geFcLGfj-FxR9KaoUtFGmLthbMrBUZtP9GVkwvTuu9xosfLYl2z-');
 }
 
+.dl-box[data-type="gdrive"] .dl-img {
+  background-image: url('https://blogger.googleusercontent.com/img/a/AVvXsEi4H3ZbZq4GkuXKuG8vDnG21ZFX3A3wStDJh8hvLbWHwCa_OKvjtD5HgLR9he4rdbdNwHXUHnuKpAcNAKVgdPV47vnYF3Bvllbpu15zx-BI6nCposfb79yWfNGiqXlakvzmlhMUqIRnljGvzicvVZdmL1NAlK4RRxur4yjf3tNYuH8l_zTuvUCVdGSjK2fM');
+}
+
 .dl-box[data-type="mega"] .dl-img {
-  background-image: url('mg.png');
+  background-image: url('https://blogger.googleusercontent.com/img/a/AVvXsEgqYC-0cj3RgKsfnUiJbYvE4H_Oj6ZWy42VyrqZcQ8jP3Pya6i81xACh7ENEHvOYVdqo-4dL1w-4b-Yk7RVH6ffqh9gWgcXOuJNK1Ackv6R9KHFVIHu33KSW-J50ZNEL9xVFJjcxZdGxOqTQNlNO1qR3cEeezb8_-DH2E570G2HrrLycSxx7CLrxgZxldXp');
+}
+
+.dl-box[data-type="4shared"] .dl-img {
+  background-image: url('https://blogger.googleusercontent.com/img/a/AVvXsEgf8CegbxKYUwH_xw8hIw0JhanXXqhlKlLOdihlIYoeeE5oC-wgYPpmTcbAKGMBH5gBNioQV3biUv72RjlzqG91Cb--gYLXTv4P9RILagIqO4YpCJMDuSnAcOEYrMtXkJxR0jUynk18TzJyx2ox7OarQuS_jPL7UkJAsc2K0XADOS486urjE90EUt35Yy1V');
 }
 
 .dl-box[data-type="uploady"] .dl-img {
@@ -48,7 +56,7 @@
 }
 
 .dl-box[data-type="mediafire"] .dl-img {
-  background-image: url('mg.png');
+  background-image: url('https://blogger.googleusercontent.com/img/a/AVvXsEhwaIzKghWEclSda6bcliA8AMI8t7sZXiD4buloYs4OVIV-me-8IiVvUU9ThDjJ4vbzahwtkT81QUKaTSKPFkUaSO0L3tvHOrGtADjc5E7j0bCkvmNl7VWj-kYsR-pxyGN108IySoumZ5OgKEximbrwC7sDEsGwdXyTyn_qjP5ATAA3ZWSswr_EPpBomwU2');
 }
 
 .dl-icon-warning {
